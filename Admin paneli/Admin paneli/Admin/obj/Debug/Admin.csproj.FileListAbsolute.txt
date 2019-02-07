@@ -1,0 +1,36 @@
+C:\Users\samet\Documents\dönem 4.2\web p\Deneme\Admin\Admin\bin\Admin.dll.config
+C:\Users\samet\Documents\dönem 4.2\web p\Deneme\Admin\Admin\bin\Admin.dll
+C:\Users\samet\Documents\dönem 4.2\web p\Deneme\Admin\Admin\bin\Admin.pdb
+C:\Users\samet\Documents\dönem 4.2\web p\Deneme\Admin\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\Users\samet\Documents\dönem 4.2\web p\Deneme\Admin\Admin\obj\Debug\Admin.dll
+C:\Users\samet\Documents\dönem 4.2\web p\Deneme\Admin\Admin\obj\Debug\Admin.pdb
+C:\Users\Erhan Ozdemir\Desktop\Admin\Admin\bin\Admin.dll.config
+C:\Users\Erhan Ozdemir\Desktop\Admin\Admin\bin\Admin.dll
+C:\Users\Erhan Ozdemir\Desktop\Admin\Admin\bin\Admin.pdb
+C:\Users\Erhan Ozdemir\Desktop\Admin\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\Users\Erhan Ozdemir\Desktop\Admin\Admin\obj\Debug\Admin.dll
+C:\Users\Erhan Ozdemir\Desktop\Admin\Admin\obj\Debug\Admin.pdb
+C:\Users\Erhan Ozdemir\Desktop\webproje\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\Users\Erhan Ozdemir\Desktop\webproje\Admin\obj\Debug\Admin.dll
+C:\Users\Erhan Ozdemir\Desktop\webproje\Admin\obj\Debug\Admin.pdb
+C:\Users\Erhan Ozdemir\Desktop\webproje\Admin\bin\Admin.dll.config
+C:\Users\Erhan Ozdemir\Desktop\webproje\Admin\bin\Admin.dll
+C:\Users\Erhan Ozdemir\Desktop\webproje\Admin\bin\Admin.pdb
+C:\Users\samet\Desktop\proje web programlama\erhan\Admin\bin\Admin.dll.config
+C:\Users\samet\Desktop\proje web programlama\erhan\Admin\bin\Admin.dll
+C:\Users\samet\Desktop\proje web programlama\erhan\Admin\bin\Admin.pdb
+C:\Users\samet\Desktop\proje web programlama\erhan\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\Users\samet\Desktop\proje web programlama\erhan\Admin\obj\Debug\Admin.dll
+C:\Users\samet\Desktop\proje web programlama\erhan\Admin\obj\Debug\Admin.pdb
+C:\Users\samet\Desktop\Admin paneli\Admin paneli\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\Users\samet\Desktop\Admin paneli\Admin paneli\Admin\obj\Debug\Admin.dll
+C:\Users\samet\Desktop\Admin paneli\Admin paneli\Admin\obj\Debug\Admin.pdb
+C:\Users\samet\Desktop\Admin paneli\Admin paneli\Admin\bin\Admin.dll.config
+C:\Users\samet\Desktop\Admin paneli\Admin paneli\Admin\bin\Admin.dll
+C:\Users\samet\Desktop\Admin paneli\Admin paneli\Admin\bin\Admin.pdb
+C:\Users\samet\Documents\dönem 4.2\web p\proje web programlama\Admin paneli\Admin paneli\Admin\bin\Admin.dll.config
+C:\Users\samet\Documents\dönem 4.2\web p\proje web programlama\Admin paneli\Admin paneli\Admin\bin\Admin.dll
+C:\Users\samet\Documents\dönem 4.2\web p\proje web programlama\Admin paneli\Admin paneli\Admin\bin\Admin.pdb
+C:\Users\samet\Documents\dönem 4.2\web p\proje web programlama\Admin paneli\Admin paneli\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\Users\samet\Documents\dönem 4.2\web p\proje web programlama\Admin paneli\Admin paneli\Admin\obj\Debug\Admin.dll
+C:\Users\samet\Documents\dönem 4.2\web p\proje web programlama\Admin paneli\Admin paneli\Admin\obj\Debug\Admin.pdb
